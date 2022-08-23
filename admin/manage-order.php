@@ -19,7 +19,7 @@
                     <tr>
                         <td>1. </td>
                         <td>Mouse Fix</td>
-                        <td>Showrav Zaman</td>
+                        <td>Hero Alom</td>
                         <td>0164XXXXXXX</td>
                         <td>email@email.com</td>
                         <td>Mirpur,Dhaka</td>
