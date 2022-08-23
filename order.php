@@ -26,7 +26,7 @@
                     <input type="text" name="service_name" placeholder="E.g. Mouse Fix" class="input-responsive" required>
 
                     <div class="order-label">Full Name</div>
-                    <input type="text" name="full_name" placeholder="E.g. Showrav Zaman" class="input-responsive" required>
+                    <input type="text" name="full_name" placeholder="E.g. Herp Alom" class="input-responsive" required>
 
                     <div class="order-label">Phone Number</div>
                     <input type="tel" name="contact" placeholder="E.g. 0164XXXXXXX" class="input-responsive" required>
