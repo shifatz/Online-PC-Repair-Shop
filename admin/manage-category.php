@@ -18,8 +18,8 @@
 
                     <tr>
                         <td>1. </td>
-                        <td>Showrav Zaman</td>
-                        <td>ShowravZ</td>
+                        <td>Sakib Khan</td>
+                        <td>Sakibke</td>
                         <td>
                             <a href="#" class="button">Update Admin</a>
                             <a href="#" class="button">Delete Admin</a>
@@ -28,8 +28,8 @@
 
                     <tr>
                         <td>1. </td>
-                        <td>Showrav Zaman</td>
-                        <td>ShowravZ</td>
+                        <td>Mehbub Shifat</td>
+                        <td>Shifatzz</td>
                         <td>
                             <a href="#" class="button">Update Admin</a>
                             <a href="#" class="button">Delete Admin</a>
@@ -38,8 +38,8 @@
 
                     <tr>
                         <td>1. </td>
-                        <td>Showrav Zaman</td>
-                        <td>ShowravZ</td>
+                        <td>Sabbir rahman</td>
+                        <td>Sabbirwho</td>
                         <td>
                             <a href="#" class="button">Update Admin</a>
                             <a href="#" class="button">Delete Admin</a>
